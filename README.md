@@ -7,7 +7,7 @@ I am a Year 2 Computer Engineering student. I'm relatively new to the space but 
 A comprehensive LaTeX note detailing Diagonalization in Linear Algebra. This was my very first time experimenting with LaTeX. I wanted to see if I could present abstract math concepts in a way that is clean, accurate, and easy for fellow students to follow.
 
 * **[📄 View the PDF Notes](https://drive.google.com/file/d/1_L5eyzUVAr9kdu4YovBObYWtt-8SQl17/view?usp=sharing)**
-* **[💻 View the LaTeX Source Code](https://github.com/LogosAcUmbra/MyNotes/tree/main/LinearAlgebra)**
+* **[💻 View the LaTeX Source Code](https://github.com/AndyWong2718/MyNotes/blob/main/LinearAlgebra/DiagonalizationOfMatrices.tex)**
 
 ---
 
